@@ -1,5 +1,9 @@
 # winpty
 
+chazzofalf: Added fix to allow unix-adapter to build on more modern cygwin versions (2.X+).
+
+Everything else is the same as how rprichard had it.
+
 [![Build Status](https://ci.appveyor.com/api/projects/status/69tb9gylsph1ee1x/branch/master?svg=true)](https://ci.appveyor.com/project/rprichard/winpty/branch/master)
 
 winpty is a Windows software package providing an interface similar to a Unix
